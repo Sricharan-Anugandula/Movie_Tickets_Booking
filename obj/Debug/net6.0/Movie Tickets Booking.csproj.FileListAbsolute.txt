@@ -1,0 +1,65 @@
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\appsettings.Development.json
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\appsettings.json
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.staticwebassets.runtime.json
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.exe
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.deps.json
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.runtimeconfig.json
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Movie Tickets Booking.pdb
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Humanizer.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\November\Movie_Tickets_Booking\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.csproj.AssemblyReference.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.AssemblyInfoInputs.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.AssemblyInfo.cs
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.csproj.CoreCompileInputs.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.MvcApplicationPartsAssemblyInfo.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.RazorAssemblyInfo.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.RazorAssemblyInfo.cs
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets\msbuild.Movie Tickets Booking.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets\msbuild.build.Movie Tickets Booking.props
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movie Tickets Booking.props
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movie Tickets Booking.props
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\scopedcss\bundle\Movie Tickets Booking.styles.css
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\scopedcss\projectbundle\Movie Tickets Booking.bundle.scp.css
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.csproj.CopyComplete
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.dll
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\refint\Movie Tickets Booking.dll
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.pdb
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\Movie Tickets Booking.genruntimeconfig.cache
+D:\Programs\November\Movie_Tickets_Booking\obj\Debug\net6.0\ref\Movie Tickets Booking.dll
